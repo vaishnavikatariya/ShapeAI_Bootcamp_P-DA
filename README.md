@@ -1,9 +1,9 @@
 # ShapeAI_Bootcamp_P-DA
-Python and data analytics by Vaishnavi Katariya 
+
  SHAPEAI Python and data analytics BOOTCAMP
 Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
-The instructor during the session was Mr. Shaurya Sinha (Data Analyst Intern at Jio). I got to
+The instructor during the session was Miss Nandini Jalan. I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 <br><br>Here's the link for you to watch the sessions as well<br>
 <a href="https://youtu.be/Ar43AiqTTQc"> </a>
